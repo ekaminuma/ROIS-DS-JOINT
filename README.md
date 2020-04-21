@@ -15,7 +15,7 @@
 - 2018年度ROIS-DS-JOINT 公募型共同研究 [029RP2018](https://ds.rois.ac.jp/article/2018rois-ds-joint_result/)　
   - 神沼英里(TMDU), 山本泰智(DBCLS)
   - 課題名「**医療アクセス制限研究の属性共起分析による類似オープンデータ順位付けとデータサイエンス応用**」
-  - [2018年度の成果報告書](./EK_ROISDS190331.pdf)
+  - [2018年度の成果報告書](./EK_ROISDS190411.pdf)
   
   <kbd><img src="./roisds2018_1.png" width="380" border="1"/></kbd>  <kbd><img src="./roisds2018_2.png" width="370" border="1"/></kbd>
 
