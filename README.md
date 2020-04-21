@@ -16,5 +16,5 @@
   - 神沼英里(TMDU), 山本泰智(DBCLS)
   - 課題名「**医療アクセス制限研究の属性共起分析による類似オープンデータ順位付けとデータサイエンス応用**」
   - [2018年度の成果報告書](./EK_ROISDS190331.pdf)
-  - <img src="./roisds2018_1.png" width="320" border="1"/>  <img src="./roisds2018_2.png" width="320" border="1"/>
+  - <kbd><img src="./roisds2018_1.png" width="360" border="1"/></kbd>  <kbd><img src="./roisds2018_2.png" width="320" border="1"/></kbd>
 
